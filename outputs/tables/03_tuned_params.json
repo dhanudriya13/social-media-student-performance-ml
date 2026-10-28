@@ -1,0 +1,10 @@
+{
+  "Random Forest": {
+    "min_samples_leaf": 4,
+    "n_estimators": 600
+  },
+  "Hist Gradient Boosting": {
+    "learning_rate": 0.03,
+    "max_leaf_nodes": 15
+  }
+}

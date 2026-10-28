@@ -1,0 +1,16 @@
+# Core analysis stack (versions used in the executed run are listed below)
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook execution and testing
+jupyter
+nbformat
+nbconvert
+ipykernel
+pytest
+
+# Optional (not required by the committed analysis)
+# shap

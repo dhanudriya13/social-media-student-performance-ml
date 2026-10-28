@@ -1,0 +1,3 @@
+model,best_cv_mae,best_params
+Random Forest,0.21909969075649235,"{'min_samples_leaf': 4, 'n_estimators': 600}"
+Hist Gradient Boosting,0.22030555217125036,"{'learning_rate': 0.03, 'max_leaf_nodes': 15}"

@@ -1,0 +1,4 @@
+Overall_Impact,count,mean,std,min,max
+Beneficial,3610,3.546,0.299,2.52,4.0
+Negative,163,2.544,0.274,1.9,3.28
+Neutral,642,2.997,0.278,2.09,3.81

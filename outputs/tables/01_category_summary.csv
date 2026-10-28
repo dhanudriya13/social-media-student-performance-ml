@@ -1,0 +1,28 @@
+column,value,count,pct
+Gender,Female,2234,49.64
+Gender,Male,2051,45.58
+Gender,Non-Binary,122,2.71
+Gender,Prefer not to say,93,2.07
+Academic_Level,Undergraduate,2777,61.71
+Academic_Level,High School,1477,32.82
+Academic_Level,Postgraduate,246,5.47
+Primary_Platform,Instagram,1453,32.29
+Primary_Platform,TikTok,1226,27.24
+Primary_Platform,YouTube,818,18.18
+Primary_Platform,Snapchat,472,10.49
+Primary_Platform,Reddit,229,5.09
+Primary_Platform,X (Twitter),206,4.58
+Primary_Platform,LinkedIn,96,2.13
+Device_Type,Smartphone,3775,83.89
+Device_Type,Laptop/PC,596,13.24
+Device_Type,Tablet,129,2.87
+Late_Night_Usage,True,2644,58.76
+Late_Night_Usage,False,1856,41.24
+Social_Comparison_Frequency,Sometimes,1594,35.42
+Social_Comparison_Frequency,Frequently,1248,27.73
+Social_Comparison_Frequency,Rarely,766,17.02
+Social_Comparison_Frequency,Always,632,14.04
+Social_Comparison_Frequency,Never,260,5.78
+Overall_Impact,Beneficial,3681,81.8
+Overall_Impact,Neutral,654,14.53
+Overall_Impact,Negative,165,3.67

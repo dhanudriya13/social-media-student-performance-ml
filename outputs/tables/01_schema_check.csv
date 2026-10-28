@@ -1,0 +1,17 @@
+column,observed
+Student_ID,True
+Age,True
+Gender,True
+Academic_Level,True
+Primary_Platform,True
+Daily_Usage_Hours,True
+Weekend_Extra_Hours,True
+Sleep_Duration_Hours,True
+Sleep_Quality_Score,True
+Perceived_Stress_Score,True
+Mental_Health_Index,True
+Academic_Performance_GPA,True
+Social_Comparison_Frequency,True
+Device_Type,True
+Late_Night_Usage,True
+Overall_Impact,True

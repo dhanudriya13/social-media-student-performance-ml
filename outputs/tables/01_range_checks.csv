@@ -1,0 +1,8 @@
+column,min,max,n_unique,smallest_step
+Age,15.0,26.0,12,1.0
+Daily_Usage_Hours,0.9,14.0,129,0.09999999999999964
+Weekend_Extra_Hours,0.0,4.5,43,0.09999999999999964
+Sleep_Duration_Hours,3.0,10.5,73,0.09999999999999964
+Sleep_Quality_Score,1.0,5.0,5,1.0
+Perceived_Stress_Score,0.0,40.0,41,1.0
+Mental_Health_Index,32.0,98.0,67,1.0

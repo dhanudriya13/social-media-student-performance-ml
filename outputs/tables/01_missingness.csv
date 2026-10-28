@@ -1,0 +1,17 @@
+,n_missing,pct_missing,dtype
+Academic_Performance_GPA,85,1.89,float64
+Perceived_Stress_Score,46,1.02,float64
+Student_ID,0,0.0,object
+Age,0,0.0,int64
+Gender,0,0.0,object
+Academic_Level,0,0.0,object
+Primary_Platform,0,0.0,object
+Daily_Usage_Hours,0,0.0,float64
+Weekend_Extra_Hours,0,0.0,float64
+Device_Type,0,0.0,object
+Sleep_Duration_Hours,0,0.0,float64
+Sleep_Quality_Score,0,0.0,int64
+Late_Night_Usage,0,0.0,bool
+Social_Comparison_Frequency,0,0.0,object
+Mental_Health_Index,0,0.0,int64
+Overall_Impact,0,0.0,object

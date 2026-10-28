@@ -1,0 +1,4 @@
+{
+  "selected_model": "Linear Regression",
+  "selection_rule": "lowest mean 5-fold CV MAE on the training partition"
+}
